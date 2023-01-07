@@ -1,12 +1,11 @@
 # Setup
-title: Not Pure Poole
+title: 코딩정리room
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+url: https://tjdghk3084.github.io/
+avatar: /landscape-nature-snow.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
-
+cover_image: /tree-nature-forest-branch-snow-pxhere.com.jpg
 # Gems
 plugins:
   - jekyll-gist
