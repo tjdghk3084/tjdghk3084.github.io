@@ -1,9 +1,8 @@
-
+- title: Home
+  url: /
 - title: Swift
   url: /about/
-  type: dates
-  title: Xcode
-  url: /dates/
+  
 - type: categories
   title: design pattern
   url: /categories/
