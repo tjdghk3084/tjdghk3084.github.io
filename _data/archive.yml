@@ -1,9 +1,9 @@
-- type: dates
+- type: xcode
   title: Dates
   url: /dates/
 - type: categories
-  title: Categories
+  title: design pattern
   url: /categories/
 - type: tags
-  title: Tags
+  title: SwiftUI
   url: /tags/
