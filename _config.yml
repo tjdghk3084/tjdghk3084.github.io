@@ -1,6 +1,6 @@
 # Setup
 title: 코딩정리room
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+description: Let's have fun coding
 url: https://tjdghk3084.github.io/
 avatar: /landscape-nature-snow.jpg
 paginate: 5
@@ -28,14 +28,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
-  card: summary
+  username: none
+  card: none
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Sunghwa Im
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - none
+    - https://github.com/tjdghk3084
 google_site_verification: xxxxx
 lang: en
 
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Sunghwa Im
+  url: https://github.com/tjdghk3084
+  email: tjdghk3084@naver,com
