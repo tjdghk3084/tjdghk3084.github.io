@@ -1,11 +1,11 @@
 # Setup
-title: 2023코딩 생각하자
-description: 2023Let's play while coding
-url: https://github.com/tjdghk3084/tjdghk3084.github.io
-avatar: /landscape-nature-snow.jpg
+title: Not Pure Poole
+description: A simple, beautiful, and powerful Jekyll theme for blogs
+url: https://vszhub.github.io
+avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /nature-mountain-night.jpg
+cover_image: /bg.jpeg
 
 # Gems
 plugins:
@@ -29,16 +29,16 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: none
+  username: vszhub
   card: summary
 logo: logo.png
 social:
-  name: Sunghwa Im
+  name: Songzi Vong
   links:
-    - none
-    - https://github.com/tjdghk3084
+    - https://twitter.com/vszhub
+    - https://github.com/vszhub
 google_site_verification: xxxxx
-lang: ko-KR
+lang: en
 
 sass:
   sass_dir: _sass
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Sunghwa Im
-  url: https://github.com/tjdghk3084
-  email: tjdghk3084@naver.com
+  name: Songzi Vong
+  url: https://github.com/vszhub/
+  email: vszhub@gmail.com
