@@ -1,7 +1,7 @@
 ---
 layout: archive-taxonomies
 permalink: /categories/
-title: Categories
-type: categories
+title: design pettern
+type: design pettern
 ---
   ffsdfdsf
