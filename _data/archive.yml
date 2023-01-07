@@ -1,5 +1,5 @@
-- type: xcode
-  title: Dates
+- type: dates
+  title: xcode
   url: /dates/
 - type: categories
   title: design pattern
